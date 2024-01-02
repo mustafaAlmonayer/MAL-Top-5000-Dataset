@@ -308,3 +308,17 @@ streaming | streaming platforms CrunchyRoll...etc.
 * pymongo lib
 
 * mongodb server Local or hosted
+
+## Running Cleanning And Profiling Notebook
+
+* pandas
+
+* matplotlib
+
+* nltk
+
+* pandarallel
+
+* textblob
+
+* wordcloud
